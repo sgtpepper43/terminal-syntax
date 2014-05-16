@@ -1,0 +1,11 @@
+{
+  "name": "terminal-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme to make it look like you're editing on an old school terminal",
+  "repository": "https://github.com/sgtpepper43/terminal-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
